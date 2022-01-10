@@ -8,3 +8,4 @@ In this repo you will see a few example related with regressions.
 6. K-Means Clustering
 7. Logistic Regression
 8. XGBoost Classification
+9. KNN Classification
