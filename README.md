@@ -1,5 +1,5 @@
 # Machine-Learning
-In this repo you will see a few example related with regressions.
+In this repo you will see a few example related with ML algorithms like regressions and classifications.
 1. Linear Regression
 2. Polynomial Regression
 3. Multiple Regression
