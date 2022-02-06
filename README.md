@@ -9,3 +9,5 @@ In this repo you will see a few example related with ML algorithms like regressi
 7. Logistic Regression
 8. XGBoost Classification
 9. KNN Classification
+10. Neural Network
+11. RandomForest Classification
