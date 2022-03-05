@@ -11,3 +11,4 @@ In this repo you will see a few example related with ML algorithms like regressi
 9. KNN Classification
 10. Neural Network
 11. RandomForest Classification
+12. Anomaly Detection
