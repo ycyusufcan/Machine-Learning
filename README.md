@@ -1,5 +1,7 @@
 # Machine-Learning
-In this repo you will see a few example related with ML algorithms like regressions and classifications.
+In this repo you will see ML algorithms. Some of them example of supervised and some of them example of unsupervised ML algorithms
+Enjoy!
+
 1. Linear Regression
 2. Polynomial Regression
 3. Multiple Regression
@@ -12,3 +14,4 @@ In this repo you will see a few example related with ML algorithms like regressi
 10. Neural Network
 11. RandomForest Classification
 12. Anomaly Detection
+13. PCA (Principal Component Analysis)
